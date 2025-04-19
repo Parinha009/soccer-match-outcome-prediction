@@ -1,0 +1,11 @@
+ml2025_venv/
+__pycache__/
+*.pyc
+"a_database.sqlite" 
+"cleaned_matches.csv" 
+"a_database.sqlite" 
+"cleaned_matches.csv" 
+"a_database.sqlite" 
+"cleaned_matches.csv" 
+a_database.sqlite    
+cleaned_matches.csv  
